@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwidzi&show_icons=true&theme=dark)
+![Gwidzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwidzi&show_icons=true&theme=dark)
