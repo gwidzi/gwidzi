@@ -1,1 +1,2 @@
-![Gwidzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwidzi&show_icons=true&theme=dark)
+![Gwidzi's GitHub stats](https://stats.vze.hu/?username=gwidzi&show_icons=true&theme=github_dark)
+![Gwidzi's GitHub stats](https://stats.vze.hu/top-langs/?username=gwidzi&layout=compact&theme=github_dark)
